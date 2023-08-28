@@ -3,5 +3,7 @@ git clone "Link do repositório no github" (para sincronizar a pasta)
 git cd "nome da pasta"
 
 git add .
-git commit -m "Quarto commit!"
+git commit -m "Quinto commit!"
 git push
+
+mais uma linha aqui
