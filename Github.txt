@@ -1,3 +1,6 @@
+git clone "Link do repositório no github" (para sincronizar a pasta)
+
+git cd "nome da pasta"
 git add .
 git commit -m "primeiro commit!"
 git push
