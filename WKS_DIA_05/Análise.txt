@@ -1,0 +1,4 @@
+1) Coletado os dados no Kaggle
+2) Tive alguns problemas na formatação do dataset. Tendo que traduzir e organizar a coluna DATA.
+3) Fiz 4 gráficos com os dados, organizando por: plataforma, classificação, lançamentos por ano.
+4) Inseri uma imagem da Nitendo no dashbord.
